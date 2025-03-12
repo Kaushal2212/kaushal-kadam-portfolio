@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/kaushal-kadam-portfolio/static/css/main.d9cd3dca.css",
+    "main.js": "/kaushal-kadam-portfolio/static/js/main.f52c6fae.js",
+    "static/js/415.4d6acbeb.chunk.js": "/kaushal-kadam-portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/kaushal-kadam-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/society360.png": "/kaushal-kadam-portfolio/static/media/society360.3a13ed63d7e7b3f48947.png",
+    "static/media/suicide.png": "/kaushal-kadam-portfolio/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/KaushalResume.pdf": "/kaushal-kadam-portfolio/static/media/KaushalResume.ba263e42301cfdf9c083.pdf",
+    "static/media/insurance.jpg": "/kaushal-kadam-portfolio/static/media/insurance.3d1f206aa1179be89922.jpg",
+    "static/media/home-main.svg": "/kaushal-kadam-portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/kaushal-kadam-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/room.jpg": "/kaushal-kadam-portfolio/static/media/room.3c97329da7f896aa9c07.jpg",
+    "static/media/book.jpg": "/kaushal-kadam-portfolio/static/media/book.37e3af8bc102bebc1696.jpg",
+    "static/media/weather.webp": "/kaushal-kadam-portfolio/static/media/weather.a16c14ac37f4e9df41d9.webp",
+    "static/media/home-bg.jpg": "/kaushal-kadam-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/kaushal-kadam-portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/kaushal-kadam-portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/kaushal-kadam-portfolio/index.html",
+    "main.d9cd3dca.css.map": "/kaushal-kadam-portfolio/static/css/main.d9cd3dca.css.map",
+    "main.f52c6fae.js.map": "/kaushal-kadam-portfolio/static/js/main.f52c6fae.js.map",
+    "415.4d6acbeb.chunk.js.map": "/kaushal-kadam-portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/kaushal-kadam-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9cd3dca.css",
+    "static/js/main.f52c6fae.js"
+  ]
+}
